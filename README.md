@@ -1,11 +1,11 @@
-# Coral Swing Timer
+# (Not yet functional) Coral Swing Timer
 
 A swing timer that estimates your "golden window" for instant attacks to maximize the benefit from extra attacks.
 
 This primarily benefits sword rogues, but other melee may benefit as well.
 
 
-### Whats the Golden Window?
+### What's the Golden Window?
 
 The "golden window" is time between your character starting their next auto attack and your latency.
 
