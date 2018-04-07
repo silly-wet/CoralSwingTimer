@@ -1,0 +1,19 @@
+
+
+- Calculate swing time for auto attacks
+- Calcuate latency
+
+
+Display Golden window on swing Timer
+  - either latency+buffer from the right side
+  - or swingtimer-latency from the left, coloring the remainder
+
+
+mainhand speed (latency-buffer) = X
+
+latency - x = Golden window
+
+
+--- Useful Functions ---
+
+GetNetStats()

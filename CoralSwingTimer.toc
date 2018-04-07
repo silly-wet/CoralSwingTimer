@@ -1,0 +1,9 @@
+## Interface: 11200
+## Title: Coral Swing Timer
+## Notes: Displays a progress bar for your attack speed and estimates the opportune time to use instant attacks.
+## DefaultState: Enabled
+## LoadOnDemand: 0
+## SavedVariablesPerCharacter: CoralSwingTimerCharacter
+## SavedVariables: CoralSwingTimerAccount
+CoralSwingTimer.xml
+CoralSwingTimer.lua 
